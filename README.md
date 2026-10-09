@@ -1,4 +1,4 @@
-# OPEN CIRCUIT
+# The Side Quest Club
 
 A student developer portfolio. Built with Vite, semantic HTML, and Tailwind CSS.
 
