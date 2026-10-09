@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-arctic: #eaf1f7;
+  --color-navy: #172c43;
+  --color-surface: #f8fafc;
+  --color-cobalt: #356ae6;
+  --color-highlight: #86acff;
+  --font-display: "Syne", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "DM Mono", ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: #86acff;
+  color: #172c43;
+}
