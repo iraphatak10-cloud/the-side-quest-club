@@ -1,6 +1,6 @@
 # OPEN CIRCUIT
 
-A student developer portfolio for college. Built with Vite, semantic HTML, and Tailwind CSS.
+A student developer portfolio. Built with Vite, semantic HTML, and Tailwind CSS.
 
 ## Run locally
 
